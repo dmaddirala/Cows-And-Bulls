@@ -1,9 +1,8 @@
 # Cows-And-Bulls
 This android app Lets you play traditional Cows and Bulls Game Online with your Friends.
 
-<img src="Screeshots/Register.png" height="1000"/> 
+<img src="Screeshots/Register.png" height="850"/> 
+<img src="Screeshots/Dashboard.png" height="850"/> 
+<img src="Screeshots/Play%20Game.png" height="850"/> 
+<img src="Screeshots/EnterGuess.png" height="850"/> 
 
-![](Screeshots/Register.png)
-![](Screeshots/Dashboard.png)
-![](Screeshots/Play%20Game.png)
-![](Screeshots/EnterGuess.png)
